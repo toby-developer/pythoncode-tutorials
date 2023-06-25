@@ -1,4 +1,4 @@
-![alt text](https://www.python.org/static/img/python-logo-large.c36dccadd999.png) 
+![alt text](https://github.com/toby-developer/pythoncode-tutorials/blob/master/images/python_logo.ico) 
 
 # Python Code Tutorials
 This is a repository of all the tutorials of [The Python Code](https://www.thepythoncode.com) website.
